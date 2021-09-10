@@ -14,7 +14,7 @@ export default function Index() {
 const [alunos, setAlunos] = useState ([]);
 
 async function listar() {
-    let r = await api.listar();
+    let r = await api.listar()
 }
 
 
