@@ -6,6 +6,7 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+<<<<<<< HEAD
     "axios": "^0.21.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -14,6 +15,11 @@
     "react-toastify": "^8.0.2",
     "react-top-loading-bar": "^2.0.1",
     "styled-components": "^5.3.1",
+=======
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+>>>>>>> 725374b8f0d2b55ce9a4406533ab35e03c80428d
     "web-vitals": "^1.1.2"
   },
   "scripts": {
